@@ -5,4 +5,3 @@
 - Ảnh demo<br/>
 ```
 ![Ảnh demo](./anhDemo.jpg?raw=true "Ảnh demo")
-
